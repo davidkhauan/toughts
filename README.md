@@ -28,13 +28,13 @@ This app serves as a starting point for building server-side applications with d
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/username/my-node-mysql-handlebars-project.git
+    git clone https://github.com/davidkhauan/toughts.git
     ```
 
 2. Navigate to the project folder:
 
     ```bash
-    cd my-node-mysql-handlebars-project
+    cd toughts
     ```
 
 3. Install the dependencies:
